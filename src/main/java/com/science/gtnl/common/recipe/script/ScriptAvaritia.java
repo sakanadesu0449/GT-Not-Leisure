@@ -1222,7 +1222,7 @@ public class ScriptAvaritia implements IScriptLoader {
                 'a',
                 ItemList.Circuit_Parts_Crystal_Chip_Wetware.get(1),
                 'b',
-                ItemList.Circuit_Integrated.getWithDamage(1, 0),
+                ItemList.Circuit_Basic.get(1),
                 'c',
                 NHItemList.PikoCircuit.get(1),
                 'd',
