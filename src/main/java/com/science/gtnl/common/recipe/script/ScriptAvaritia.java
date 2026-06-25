@@ -1148,7 +1148,7 @@ public class ScriptAvaritia implements IScriptLoader {
                 "---------",
                 "---------",
                 'i',
-                GTNLItemList.CompressedStargateTier6.get(1);
+                GTNLItemList.CompressedStargateTier6.get(1));
 
         ExtremeCraftingManager.getInstance()
             .addExtremeShapedOreRecipe(
